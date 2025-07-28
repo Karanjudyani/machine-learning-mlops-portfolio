@@ -1,1 +1,1 @@
-# Machine Learning and MLOps projects
+# Machine Learning , data science and MLOps projects
