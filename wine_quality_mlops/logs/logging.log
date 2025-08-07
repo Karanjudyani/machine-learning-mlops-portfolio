@@ -30,3 +30,16 @@ Expires: Sat, 02 Aug 2025 14:17:31 GMT
 Source-Age: 0
 
 ]
+[2025-08-02 11:10:45,817: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-08-02 11:10:45,829: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-08-02 11:10:45,832: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-08-02 11:10:45,835: INFO: common: created directory at: artifacts]
+[2025-08-02 11:10:45,836: INFO: common: created directory at: artifacts/data_validation]
+[2025-08-02 11:23:08,927: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-08-02 11:23:08,931: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-08-02 11:23:08,934: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-08-02 11:23:08,934: INFO: common: created directory at: artifacts]
+[2025-08-02 11:23:08,937: INFO: common: created directory at: artifacts/data_transformation]
+[2025-08-02 11:23:08,959: INFO: 741865018: Splited data into training and test sets]
+[2025-08-02 11:23:08,960: INFO: 741865018: (1199, 12)]
+[2025-08-02 11:23:08,960: INFO: 741865018: (400, 12)]
